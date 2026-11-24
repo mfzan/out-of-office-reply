@@ -11,7 +11,7 @@ import os
 REPLY = (
     "I'm on vacation. My auto-reply is covering my inbox, "
     "and its auto-reply is covering it. "
-    "Neither of us is coming back until the loop times out."
+    "Neither of us is back until the loop times out."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
